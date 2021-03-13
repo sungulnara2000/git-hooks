@@ -1,4 +1,4 @@
-hello = "hello"
+ hello = "hello"
 
 import "not_existing_library"
 
